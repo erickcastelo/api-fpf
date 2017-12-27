@@ -15,7 +15,8 @@ para o java e <a href="http://luizricardo.org/2014/06/instalando-configurando-e-
 ### Configuração Banco.
 O projeto necessita do MySQL instalado na versão, se possível, 5.7. Além disso o banco "avaliacao_fpf" deve ser criado.
 
-As tabelas vão ser geradas automaticamente quando o servidor "levantar", então não se preocupe com isso.
+As tabelas vão ser geradas automaticamente quando o servidor "levantar", então não se preocupe com isso. 
+Se  preocupe apena em cadastrar algumas categorias (na tabela de categoria)
 
 Usuário e senha devem ser:
 
